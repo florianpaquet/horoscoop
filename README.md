@@ -1,3 +1,5 @@
+Requires Python 3
+
 # Installation
 
 ## System deps
